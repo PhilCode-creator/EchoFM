@@ -1,0 +1,35 @@
+/* CSS */
+.navbar {
+    margin: 0;
+    padding: 0;
+    background-color: #3d3d3d;
+    display: flex;
+    height: 8vh;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar img {
+    margin-left: 5vh;
+    width: 5vh;
+    height: 5vh;
+  }
+  
+  .navbar h1 {
+    flex-grow: 1;
+    text-align: center;
+  }
+  
+  .navbar button {
+    font-size: large;
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left: 2vh;
+  }
+  
+  .navbar .cta {
+    position: relative;
+    right: 3vh;
+  }
+  
