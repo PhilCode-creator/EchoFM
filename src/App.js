@@ -1,14 +1,17 @@
 import './App.css';
-
+import 'font-awesome/css/font-awesome.min.css';
 import Navbar from './components/navbar/navbar';
-import Body from './components/body/body';
+import Genres from './components/genres/genres';
+import Stations from './components/stations/stations';
+
 
 function App() {
   return (
     <div className="App">
       <div className="content">
         <Navbar/>
-        <Body/>
+        <Genres/>
+        <Stations/>
       </div>
     </div>
   );

@@ -1,0 +1,18 @@
+.genre {
+    width: 28vh;
+    height: 8vh;
+    background-color: #181818;
+    text-align: center;
+    border-radius: 1vh;
+}
+
+.genre:hover {
+    cursor: pointer;
+}
+
+.genre h1 {
+    margin: auto;
+    line-height: 8vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vh;
+}
