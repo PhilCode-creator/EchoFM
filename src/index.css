@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700,800,900);
 body {
-  overflow: hidden;
   font-family: "Quicksand", sans-serif;
   box-sizing: border-box;
-  user-select: none;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
